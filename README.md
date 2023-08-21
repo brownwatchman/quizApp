@@ -1,2 +1,0 @@
-# quizApp
-Random question quiz 
